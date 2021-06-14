@@ -16,5 +16,5 @@ class DataController extends AbstractController
     {
         return $this->json($dataRepository->data());
     }
-    
+    п
 } 
